@@ -1,0 +1,3 @@
+/home/dev/mcu/midicon/cmake-build-release/CMakeFiles/midicon.elf.dir
+/home/dev/mcu/midicon/cmake-build-release/CMakeFiles/edit_cache.dir
+/home/dev/mcu/midicon/cmake-build-release/CMakeFiles/rebuild_cache.dir
